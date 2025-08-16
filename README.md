@@ -1,12 +1,14 @@
+# Actlvity Park Website
 
-This README now:  
-- Explains the repository  
-- Shows environment variable setup  
-- Explains deployment workflow  
-- Helps future developers understand your project  
+This repository contains the source code for the **Actlvity Park** static website, deployed on **Azure Static Web Apps**.
 
----
+## 🌐 Live Site
+[https://www.actlvity-park.com](https://www.actlvity-park.com)
 
-I can also **create a ready-to-use `index.html` template** that includes sample connection to `DATABASE_URL` and `AZURE_STORAGE_CONNECTION_STRING` so your site can immediately read from SQL or Storage.  
+## 🚀 Deployment
+- Hosted on **Azure Static Web Apps**
+- Auto-build and deploy via **GitHub Actions**
+- Default Azure domain: `https://salmon-dune-015cebb10.1.azurestaticapps.net`
+- Custom domain configured: `www.actlvity-park.com`
 
-Do you want me to do that?
+## 📂 Project Structure
